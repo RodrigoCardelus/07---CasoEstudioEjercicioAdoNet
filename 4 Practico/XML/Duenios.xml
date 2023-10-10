@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Duenios>
+  <Duenio>
+    <Cedula> 1234567 </Cedula>
+    <Nombre> Juan Gomez </Nombre>
+    <Dir> Calle 73 Numero 18 </Dir>
+  </Duenio>
+  <Duenio>
+    <Cedula> 2345678 </Cedula>
+    <Nombre> Andres Lopez </Nombre>
+    <Dir> Calle 23 numero 560 </Dir>
+  </Duenio>
+</Duenios>

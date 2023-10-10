@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Autos>
+  <Auto>
+    <Mat>APA 1234</Mat>
+    <Marca>Fiat</Marca>
+    <Modelo>Palio</Modelo>
+    <Duenio>1234567</Duenio>
+    <Precio> 1400 </Precio>
+  </Auto>
+  <Auto>
+    <Mat>SBC 1256</Mat>
+    <Marca>BMW</Marca>
+    <Modelo>320</Modelo>
+    <Duenio>2345678</Duenio>
+    <Precio> 5000 </Precio>
+  </Auto>
+  <Auto>
+    <Mat>APA 1234</Mat>
+    <Marca>Fiat</Marca>
+    <Modelo>1400</Modelo>
+    <Duenio> 1234567 </Duenio>
+    <Precio />
+  </Auto>
+  <Auto>
+    <Mat>SBC 1256</Mat>
+    <Marca>BMW</Marca>
+    <Modelo>320</Modelo>
+    <Duenio> 2345678 </Duenio>
+    <Precio>5000</Precio>
+  </Auto>
+</Autos>
