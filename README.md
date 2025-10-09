@@ -55,7 +55,7 @@ El proyecto también incluye ejemplos de **Recursividad** y un **práctico con m
 
 ├── XML/ Archivos XML utilizados en el ejercicio
 
-└── Presentacion/ Interfaz de usuario o pruebas de ejecución
+└── Presentacion/Interfaz de usuario o pruebas de ejecución
 ---
 
 ## 🚀 Ejecución del Proyecto  
