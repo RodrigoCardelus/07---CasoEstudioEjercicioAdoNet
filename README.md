@@ -47,15 +47,15 @@ El proyecto también incluye ejemplos de **Recursividad** y un **práctico con m
 /EjercicioAdoNetXML
 │
 
-├── Entidades/ # Clases base y modelos de datos
+├── Entidades/Clases base y modelos de datos
 
-├── Persistencia/ # Conexión y operaciones con ADO.NET
+├── Persistencia/Conexión y operaciones con ADO.NET
 
-├── Logica/ # Reglas de negocio y métodos recursivos
+├── Logica/Reglas de negocio y métodos recursivos
 
-├── XML/ # Archivos XML utilizados en el ejercicio
+├── XML/ Archivos XML utilizados en el ejercicio
 
-└── Presentacion/ # Interfaz de usuario o pruebas de ejecución
+└── Presentacion/ Interfaz de usuario o pruebas de ejecución
 ---
 
 ## 🚀 Ejecución del Proyecto  
