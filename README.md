@@ -45,7 +45,6 @@ El proyecto también incluye ejemplos de **Recursividad** y un **práctico con m
 ## 🧩 Estructura del Proyecto  
 
 /EjercicioAdoNetXML
-│
 
 ├── Entidades/Clases base y modelos de datos
 
