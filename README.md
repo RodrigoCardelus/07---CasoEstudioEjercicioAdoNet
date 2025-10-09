@@ -42,7 +42,6 @@ El proyecto también incluye ejemplos de **Recursividad** y un **práctico con m
 - ✅ Proyecto académico desarrollado en el **Instituto BIOS** como parte de la formación práctica.  
 
 ---
-
 ## 🧩 Estructura del Proyecto  
 /EjercicioAdoNetXML
 │
